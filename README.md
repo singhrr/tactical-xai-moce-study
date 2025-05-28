@@ -22,8 +22,6 @@ This paper investigates the role of multi-objective contrastive explanations (MO
 This appendix includes:
 
 - The full participant questionnaire
-- Example scenario and explanation screens
-- Survey structure and post-task items
 - Table with results of statistical tests
 
 ## Contact
