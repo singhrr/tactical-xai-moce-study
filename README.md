@@ -21,9 +21,9 @@ This paper investigates the role of multi-objective contrastive explanations (MO
 
 This appendix includes:
 
-- The full participant questionnaire
+- The full participant questionnaire for a sample condition (SOCE)
 - Table with results of statistical tests
 
 ## Contact
 
-For questions or collaboration inquiries, please contact the corresponding author listed in the paper.
+For questions or collaboration inquiries, don't hesitate to get in touch with the corresponding author listed in the paper.
