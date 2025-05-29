@@ -24,6 +24,15 @@ This appendix includes:
 - The full participant questionnaire for a sample condition (SOCE)
 - Table with results of statistical tests
 
+## Training Instances Only (for No Explanation and MOCE Conditions)
+
+We provide training-only survey excerpts for the following two conditions:
+
+- MOCE: [`MOCE_TrainingInstances.pdf`](./MOCE_TrainingInstances.pdf)
+- No Explanation: [`NoExplanation_TrainingInstances.pdf`](./NoExplanation_TrainingInstances.pdf)
+
+These documents include only the training instances (in the same order used during the study) and do not include test scenarios. The test scenarios were identical across all conditions and can be reviewed in full in the SOCE sample survey included in the appendix.
+
 ## Contact
 
 For questions or collaboration inquiries, don't hesitate to get in touch with the corresponding author listed in the paper.
